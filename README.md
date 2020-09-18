@@ -1,6 +1,6 @@
 # 👋 I'm Julian
 
-Things that I'm doing on a day to day basis
+Things that I love doing on a daily:
 
 - Building serverless apps/systems for startups.
 - Building product for different domains (I've done fintech, food, education).
